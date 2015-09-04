@@ -5,7 +5,7 @@ categories:
 - blog
 ---
 
-<img src="https://bcooney.github.io/master/_images/201509/starbucks.jpg">
+<img src="https://raw.githubusercontent.com/bcooney/bcooney.github.io/master/_images/201509/starbucks.jpg" height="460" width="610">
 Staff doodles on a coffee cup at a Starbucks in Chengdu, China
 
 ---
