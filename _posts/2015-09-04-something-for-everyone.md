@@ -5,7 +5,8 @@ categories:
 - blog
 ---
 
-![Starbucks, Chengdu](/_images/201509/starbucks.jpg "Staff doodles on a coffee cup at a Starbucks in Chengdu, China")
+(/_images/201509/starbucks.jpg)
+Staff doodles on a coffee cup at a Starbucks in Chengdu, China
 
 ---
 
