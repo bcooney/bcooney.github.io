@@ -2,8 +2,5 @@
 highlighter: pygments
 url: http://example.com
 lsi: false
-<<<<<<< HEAD
 exclude: [LICENSE, CNAME, README.md, .gitignore, Gemfile, Gemfile.lock, keybase.txt]
-=======
-exclude: [LICENSE, CNAME, README.md, .gitignore, Gemfile, Gemfile.lock, keybase.txt]
->>>>>>> origin/master
+
