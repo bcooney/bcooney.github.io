@@ -4,7 +4,7 @@ categories:
 - ideas
 ---
 
-## *“One day, in retrospect, the years of Google searches will strike you as the most beautiful.” 
+## *“One day, in retrospect, the years of Google searches will strike you as the most beautiful.”*
 
 ---
 
