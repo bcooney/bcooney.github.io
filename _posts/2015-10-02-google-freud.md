@@ -4,11 +4,11 @@ categories:
 - ideas
 ---
 
-# Google Freud
+## *“One day, in retrospect, the years of Google searches will strike you as the most beautiful.” 
 
 ---
 
-I just found an old comment I made on HN where I was confused and misread "Google Feud" as "Google *Freud.*" From the original post, I imagined that this would be an extension to Chrome which would add psycho-analytical analysis and judgment to search results. For example:
+I just found an old comment I made on HN where I was confused and misread ["Google Feud"](http://www.googlefeud.com) as "Google *Freud.*" From the original post, I imagined that this would be an extension to Chrome which would add psycho-analytical analysis and judgment to search results. For example:
 
 > Search: Is calorie counting actually useful?
 > Result: Does Counting Calories Actually Count? [nutrition.org]
