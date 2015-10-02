@@ -4,11 +4,7 @@ categories:
 - music
 ---
 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="http://music.163.com/outchain/player?type=2&id=33991962&auto=1&height=66"></iframe>
-
-Girls Generation: Green Light
-
----
+# [Girls Generation: Green Light](https://www.youtube.com/watch?v=TWt46g4IQeo)
 
 This type of pop music isn't for everyone, I'll say that, and for most of my life it wasn't for me either. I usually lean to much heavier music. I moved to China in 2009, when Girls Generation's first single, "Gee," had just come out. The song was absolutely everywhere, and it was the first time I'd seen singing and dancing coordinated across 9 people. In the US, the dancers dance and the singer sings, and sometimes the singer dances too. Seeing 9 people dance and sing together, throughout the entire song, with nearly no repeated moves was jaw-dropping. I've been a fan of this group for the same reason I'm a fan of hardcore (the energy) and metal (the intracacy). 
 
