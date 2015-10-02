@@ -4,6 +4,10 @@ categories:
 - ideas
 ---
 
+# Google Freud
+
+---
+
 I just found an old comment I made on HN where I was confused and misread "Google Feud" as "Google *Freud.*" From the original post, I imagined that this would be an extension to Chrome which would add psycho-analytical analysis and judgment to search results. For example:
 
 > Search: Is calorie counting actually useful?
