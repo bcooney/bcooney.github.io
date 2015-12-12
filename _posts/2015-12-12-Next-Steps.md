@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Next Steps:  Moving to a New Industry or Profession
+title: Transition Risk, part 2
 categories:
 - Work
 ---
