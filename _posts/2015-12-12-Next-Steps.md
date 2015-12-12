@@ -14,8 +14,11 @@ Originally I had ranked this 3/10, mostly because I'm not really moving to a new
 Rather than interface with other people who have the business insight that I have, I'm now directly leading, managing and training engineers who have significantly higher technical skills/knowledge than I have.
 
 The risk as I see it is three-fold:
+
 1. Getting lost myself
+
 2. Losing the new team
+
 3. Losing the old team
 
 Therefore, the best counter to this risk is balance. I'll need to keep one eye on having an even spread of input and output.
