@@ -2,10 +2,11 @@
 layout: post
 title: Next Steps:  Moving to a New Industry or Profession
 categories:
-- Oops
+- Work
 ---
 
 ## Part 2 of my Transition Risk reflection, focussing on moving to a new profession.
+
 ---
 
 Originally I had ranked this 3/10, mostly because I'm not really moving to a new industry -- I'm still inside the same company, still inside the same industry. The real risk that I'm running with this transition is this: I was a technical person in a room full of business people and now I'm a business person in a room full of technical people.
