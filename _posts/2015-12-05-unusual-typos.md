@@ -1,6 +1,7 @@
 ---
-published: false
+published: true
 ---
+
 
 
 ---
@@ -14,4 +15,3 @@ categories:
 2. Githug
 
 *More to come, I'm sure*
-
