@@ -1,8 +1,4 @@
 ---
-published: true
----
-
----
 layout: post
 title: Unusual Typos
 categories:
