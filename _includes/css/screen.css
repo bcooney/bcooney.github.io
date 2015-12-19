@@ -18,7 +18,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   color: #181818;
-  font-family: "Raleway",Arial,sans-serif;
+  font-family: "Arial",Arial,sans-serif;
   font-weight: 600;
 }
 
@@ -85,7 +85,7 @@ ul.posts li {
 }
 
 ul.posts span {
-  font-family: "Raleway",Arial,sans-serif;
+  font-family: "Arial",Arial,sans-serif;
   color: #aaa;
   padding-right: 5px;
   font-size:14px;
@@ -145,7 +145,7 @@ nav h1, nav h2 {
 
 .sidebar {
   padding-top: 25px;
-  font-family: "Raleway",Arial,sans-serif;
+  font-family: "Arial",Arial,sans-serif;
 }
 
 .sidebar p {
@@ -157,7 +157,7 @@ nav h1, nav h2 {
 }
 
 .content {
-  font: 400 16px/22px "Raleway",Arial,sans-serif;
+  font: 400 16px/22px "Arial",Arial,sans-serif;
   border-left: 1px solid #DDD;
   padding-left: 40px;
   padding-top: 25px;
@@ -218,7 +218,7 @@ nav h1, nav h2 {
 }
 
 i.fa-hn {
-  font-family: "Raleway",Arial,sans-serif;
+  font-family: "Arial",Arial,sans-serif;
   text-align: center;
   font-size: 18px !important;
   position: relative;
