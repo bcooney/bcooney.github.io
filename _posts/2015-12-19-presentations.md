@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reflection on Powerpoint and presentations
+title: Reflection on Powerpoint and Presentations
 categories:
 - Work
 ---
