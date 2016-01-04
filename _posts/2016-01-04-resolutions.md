@@ -10,7 +10,7 @@ categories:
 ---
 
 1. Read 10 books
-2. Get under 100kg
+2. Lost 15kg (Get down to around 90kg)
 3. Use my UP tracker again
 4. Pass my PMP and PGMP
 5. Finish 2nd draft of my book
