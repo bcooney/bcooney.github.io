@@ -13,7 +13,7 @@ categories:
 - Lost 15kg (Get down to around 90kg)
 - Use my UP tracker again
 - Pass my PMP and PGMP
- - Implement what I learned at work
+ - Implement what I learned from these courses at work
 - Have a better annual review than this year
 - Get a 15% raise in salary
 - Finish 2nd draft of my book
