@@ -13,7 +13,7 @@ categories:
 - Lost 15kg (Get down to around 90kg)
 - Use my UP tracker again
 - Pass my PMP and PGMP
-- Implement what I learned at work
+ - Implement what I learned at work
 - Have a better annual review than this year
 - Get a 15% raise in salary
 - Finish 2nd draft of my book
@@ -26,6 +26,6 @@ categories:
 - Save more money by using a better budget
 - Evaluate if EMBA is right for me and make a decision
 - Speak and track 1,200 hours of Chinese (3 hours per day)
-- Create and use a tool to track my Chinese
+ - Create and use a tool to track my Chinese
 - Determine where to live and realistic financial plan for it
 - Kid!
