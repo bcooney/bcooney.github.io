@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New Year Resolutions
+title: 2016 Resolutions
 categories:
 - ideas
 ---
