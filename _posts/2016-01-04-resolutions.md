@@ -9,15 +9,23 @@ categories:
 
 ---
 
-1. Read 10 books
-2. Lost 15kg (Get down to around 90kg)
-3. Use my UP tracker again
-4. Pass my PMP and PGMP
-5. Finish 2nd draft of my book
-6. Submit my writing to 20 places for publication
-7. Finish children's book
-8. Save more money by using a better budget
-9. Evaluate if EMBA is right for me and make a decision
-10. Speak and track 1,200 hours of Chinese (3 hours per day)
-11. Determine where to live and realistic financial plan for it
-12. Kid!
+- Read 10 books
+- Lost 15kg (Get down to around 90kg)
+- Use my UP tracker again
+- Pass my PMP and PGMP
+- Implement what I learned at work
+- Have a better annual review than this year
+- Get a 15% raise in salary
+- Finish 2nd draft of my book
+- Write 5 songs
+- Cook 20 new dishes 3 times each and keep notes
+- Blog weekly
+- Create a monthly podcast and find a place to distribute it
+- Submit my writing to 20 places for publication
+- Finish children's book
+- Save more money by using a better budget
+- Evaluate if EMBA is right for me and make a decision
+- Speak and track 1,200 hours of Chinese (3 hours per day)
+- Create and use a tool to track my Chinese
+- Determine where to live and realistic financial plan for it
+- Kid!
