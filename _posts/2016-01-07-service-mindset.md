@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My Service Mindset
+title: My Attitude Toward Work and Service
 categories:
 - inspiration
 ---
