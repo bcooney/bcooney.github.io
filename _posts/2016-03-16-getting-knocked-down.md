@@ -2,7 +2,7 @@
 layout: post
 title: Getting Knocked Down
 categories:
-- ideas
+- personal
 ---
 
 ## *"Resilience is, of course, necessary for a warrior. But a lack of empathy isn't."* -- Phil Klay
