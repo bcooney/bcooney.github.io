@@ -10,7 +10,7 @@ categories:
 ---
 
 - Read 10 books
-- Lost 15kg (Get down to around 90kg)
+- Lose 15kg (Get down to around 90kg)
 - Use my UP tracker again
 - Pass my PMP and PGMP
  - Implement what I learned from these courses at work
@@ -28,4 +28,4 @@ categories:
 - Speak and track 1,200 hours of Chinese (3 hours per day)
  - Create and use a tool to track my Chinese
 - Determine where to live and realistic financial plan for it
-- Kid!
+
