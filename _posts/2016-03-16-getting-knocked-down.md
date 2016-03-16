@@ -12,3 +12,5 @@ categories:
 *This one is for me.*
 
 I have a pretty thick skin. I haven't reached the level where what people say doesn't bother me, just passed the level where I know how best not to show it. These days I've been knocked down quite a bit, and I sense there's a pleasure to knocking people (me) down that others enjoy; the rumors, the secrecy of it, the inside-jokes and whispers... But I've worked incredibly hard throughout my life to stand on my own two feet. Not one thing was handed to me or fell in my lap. I may not know or have much, but I've done my best with so little. I have not degraded anyone to get where I am, and I will not hurt anyone to go where I'm going. I don't say it frequently enough, but I am proud of myself. I just need to keep going and believe that my work and care will prove these people wrong. I do belong, I do add value, I am intelligent and that I am worth knowing. 
+
+In short: Me, me, me (haha).
