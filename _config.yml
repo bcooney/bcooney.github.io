@@ -21,7 +21,7 @@ paginate_path: "/page/:num/"
 comments: true
 
 # source: source
-destination: _site
+# destination: _site
 
 # Sass configuration
 sass:
@@ -46,9 +46,9 @@ og_locale: "pt_BR"
 twitter_card: "summary_large_image"
 twitter_site: "@nandomoreirame"
 
-gems:
-  - bourbon
-  - jekyll-paginate
+# gems:
+  # - bourbon
+  # - jekyll-paginate
 
 # navbar pages
 navbar:
