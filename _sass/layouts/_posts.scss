@@ -70,12 +70,9 @@ header {
     text-align: center;
     width: 50%;
   }
-  a:hover {
-    @extend a.button:hover;
-  }
+
 
   i {
     vertical-align: middle;
   }
 }
-
