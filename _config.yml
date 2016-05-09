@@ -12,10 +12,8 @@ theme:
 
   # Header and footer text
   header_text: >
-     <p>一丝不苟</p>
-
-     <p>Notes and ideas on a range of topics</p>
-  header_text_feature_image:
+  "The Wolves are a free people"
+  feature-image: "img/photo1.jpeg"
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a> Content does not reflect the opinions of my employer.
 
