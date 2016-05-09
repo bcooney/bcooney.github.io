@@ -54,7 +54,7 @@ theme:
 
   # Colours, typography and padding
   # Open the "_sass > base" folder, and open "_variables.scss"
-  google_fonts: "Fira+Sans:400,700,700italic,400italic"
+  google_fonts: "Fira+Sans:400,400italic,700,700italic"
 
   # Post navigation
   post_navigation: false
