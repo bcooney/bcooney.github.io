@@ -12,7 +12,7 @@ theme:
 
   # Header and footer text
   header_text: >
-     <p>"The Wolves are a free people."</p>
+     "The Wolves are a free people."
   header_text_feature_image: img/photo1.jpeg
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a> Content does not reflect the opinions of my employer.
