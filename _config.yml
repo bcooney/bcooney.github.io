@@ -12,7 +12,7 @@ theme:
 
   # Header and footer text
   header_text: >
-   <SPAN style="BACKGROUND-COLOR: #FFC107">"Ideas, Occasionally Good."</SPAN>
+   <SPAN style="BACKGROUND-COLOR: #FFC107">Ideas, Occasionally Good.</SPAN>
    <p> </p>
   header_text_feature_image: img/photo1.jpeg
   footer_text: >
