@@ -12,9 +12,9 @@ theme:
 
   # Header and footer text
   header_text: >
-   <p><SPAN style="BACKGROUND-COLOR: #FFC107">Ideas. Occasionally Good.</SPAN>
+   <p><SPAN style="BACKGROUND-COLOR: #FFC107">Ideas. Occasionally Good.</SPAN></p>
 
-   <p><SPAN style="BACKGROUND-COLOR: #FFC107">Occasionally Good.</SPAN>
+   <p><SPAN style="BACKGROUND-COLOR: #FFC107">Occasionally Good.</SPAN></p>
   header_text_feature_image: img/photo2.jpg
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>. Photo via <a href="https://unsplash.com/@chuchad">Vladimir @ Unsplash</a> / Content does not reflect the opinions of my employer.
