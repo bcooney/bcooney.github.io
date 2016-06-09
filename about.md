@@ -4,6 +4,11 @@ title: About
 permalink: /about/
 ---
 
-I am freelance developer. Currently doing more in backend, actually in Python and Django.
+# Hello.
+### I'm Brendan.
 
-email: agus[at]python.web.id
+Identity: https://onename.com/bcooney
+Linkedin: https://cn.linkedin.com/in/brendancooney
+Email: bcooney[at]tutanota[dot]de
+
+Thanks [Angus](https://github.com/agusmakmun/agusmakmun.github.io) for the blog theme.
