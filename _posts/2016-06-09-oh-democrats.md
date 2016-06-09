@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "First post"
+title:  "Oh Democrats..."
 date:   2016-06-09
 categories: [others]
 ---
