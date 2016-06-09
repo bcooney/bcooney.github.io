@@ -1,45 +1,10 @@
 ---
 layout: post
-title:  "Reverse Bit [CF]"
-date:   2016-05-22 04:04:23 +0700
-categories: [python, codefights]
+title:  "First post"
+date:   2016-06-09
+categories: [others]
 ---
 
-Author Question: **Giappi**
+> "Oh Democrats, I hope you saved the receipt for your recent purchase"
 
-I have an integer number, which I want to reverse by following steps:
-
-1. Convert the number into binary string.
-2. Reverse binary string.
-3. Convert the reversed binary string back to integer.
-
-Can you help me write a function to do it ?
-
-**Example**
-
-For `x = 234`, the output should be `ReverseBit(x) = 87`.
-
-`23410 = 111010102 => 010101112 = 8710`.
-
-**Input/Output**
-
-* **[input] integer x**
-  A non-negative integer.
-
-* **[output] integer**
-  x reversed as described above.
-
-**Solution:**
-
-```python
-def ReverseBit(x):
-  x = bin(x).replace('0b', '')
-  reverse_text = ''
-  for l in range(len(x)-1, -1, -1):
-      reverse_text = reverse_text + x[l]
-  return int(reverse_text, 2)
-
->>> ReverseBit(234)
-87
->>>
-```
+- [misyo](https://www.reddit.com/r/politics/comments/4n8gwp/fbi_admits_finding_additional_info_on_clinton/d41ws5n) on Reddit, responding to FBI admission that additional information had been found on the Clinton email server. Great soundbite, fully captures the sentiment right now. Not sure how trustworthy "lawnewz.com" is, though. [Decide for yourself.](http://lawnewz.com/high-profile/fbi-admits-finding-additional-info-on-clinton-server-during-e-mail-investigation/)
