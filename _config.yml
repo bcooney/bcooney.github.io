@@ -1,74 +1,18 @@
-# SITE CONFIGURATION
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://bcooney.github.io/" # the base hostname & protocol for your site
-
-# THEME-SPECIFIC CONFIGURATION
-theme:
-  # Meta
-  title: Brendan's Blog
-  avatar: logo.png
-  gravatar: # Email MD5 hash
-  description: "A website with blog posts and pages" # used by search engines
-
-  # Header and footer text
-  header_text: >
-   <p><SPAN style="BACKGROUND-COLOR: #FFC107">Ideas:</SPAN></p>
-
-   <p><SPAN style="BACKGROUND-COLOR: #FFC107">Occasionally Good</SPAN></p>
-  header_text_feature_image: img/photo2.jpg
-  footer_text: >
-   Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>. Photo via <a href="https://unsplash.com/@chuchad">Vladimir @ Unsplash</a> / Content does not reflect the opinions of my employer.
-
-  # Icons
-  rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
-  behance:
-  bitbucket:
-  dribbble:
-  facebook:
-  flickr:
-  github:
-  google_plus:
-  instagram:
-  linkedin:  # Full URL
-  pinterest:
-  reddit:
-  soundcloud:
-  stack_exchange:  # Full URL
-  steam:
-  tumblr:
-  twitter:
-  wordpress:
-  youtube:
-
-  # Scripts
-  google_analytics: # Tracking ID, e.g. "UA-000000-01"
-  disqus_shortname:
-  katex: true # Enable if using math markup
-
-  # Localization strings
-  # str_follow_on: "Follow on"
-  str_rss_follow: "Follow RSS feed"
-  str_email: "Email"
-  str_next: "Next"
-  str_prev: "Prev"
-  str_continue_reading: "Continue reading"
-
-  # Colours, typography and padding
-  # Open the "_sass > base" folder, and open "_variables.scss"
-  google_fonts: "Fira+Sans:400,400italic,700,700italic"
-
-  # Post navigation
-  post_navigation: false
-
-# PAGINATION
-paginate: 5
-paginate_path: "blog/page:num"
-
-# BUILD SETTINGS
+title: Ideas: Occasionally Good
+description: A blog about, well, not much really
+author: B. Cooney
+github: https://github.com/bcooney
+about: Mi neurosis es su neurosis.
+urls:
+    - text: About Me
+      url: /about/
+    - text: Github
+      url: https://github.com/agusmakmun
+    - text: XML Feed
+      url: /feed.xml
+url: "https://bcooney.github.io"
+baseurl: ""
+paginate: 20
+per_page: 20
+paginate_path: "/page:num/"
 markdown: kramdown
-highlighter: rouge
-sass:
-  sass_dir: _sass
-  style: :compressed
-gems: [jekyll-paginate]
