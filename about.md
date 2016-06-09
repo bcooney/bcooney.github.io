@@ -4,8 +4,7 @@ title: About
 permalink: /about/
 ---
 
-# Hello.
-# I'm Brendan.
+# Hello, I'm Brendan.
 
 **ID:** https://onename.com/bcooney
 
