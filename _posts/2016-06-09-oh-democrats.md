@@ -2,7 +2,7 @@
 layout: post
 title:  "Oh Democrats..."
 date:   2016-06-09
-categories: [others]
+categories: [quotes]
 ---
 
 > "Oh Democrats, I hope you saved the receipt for your recent purchase"
