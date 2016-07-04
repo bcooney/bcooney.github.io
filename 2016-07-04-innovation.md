@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Innovation 2016"
-date:   2016-06-09
+date:   2016-07-04
 categories: [quotes]
 ---
 
