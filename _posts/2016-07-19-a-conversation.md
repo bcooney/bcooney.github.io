@@ -12,7 +12,8 @@ categories: [quotes]
     Author: "Hey, can I borrow some tweezers? I think this headphone jack is busted and I want to adjust these headphones so they'll work."
     Seat Passenger: "No problem."
     Author: [starts stripping the wires from his headphones]
-    Seat Passenger (thinking): "Stay cool, Phillip, this guy is clearly a terrorist..."
+    Seat Passenger (thinking): "Stay cool, Phillip, this guy is clearly a
+    terrorist..."
     Author: [plugs in headphones]
     Author: "Hey, it works! Thanks, bud!"
     Seat Passenger (thinking): "Where is that god damned air marshall. Oh god, what am I going to do?!"
