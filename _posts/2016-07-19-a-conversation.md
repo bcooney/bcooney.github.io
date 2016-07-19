@@ -7,19 +7,19 @@ categories: [quotes]
 
 *So you're thinking something like this?*
 
-> Author: <fiddles with headphone jack>
+> Author: [fiddles with headphone jack]
 
-> Author: <fiddles with headphone jack some more>
+> Author: [fiddles with headphone jack some more]
 
 > Author: "Hey, can I borrow some tweezers? I think this headphone jack is busted and I want to adjust these headphones so they'll work."
 
 > Seat Passenger: "No problem."
 
-> Author: <starts stripping the wires from his headphones>
+> Author: [starts stripping the wires from his headphones]
 
 > Seat Passenger (thinking): "Stay cool, Phillip, this guy is clearly a terrorist..."
 
-> Author: <plugs in headphones>
+> Author: [plugs in headphones]
 
 > Author: "Hey, it works! Thanks, bud!"
 
